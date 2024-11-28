@@ -1,4 +1,4 @@
-# Food Ordering Appointment System
+# 🎯 Food Ordering Appointment System
 
 This repository contains the **Admin Panel** and **API** for managing food ordering appointments with a food store. The system is designed to streamline appointment scheduling and order management, providing both administrative tools and API functionality for frontend integration.
 
