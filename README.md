@@ -71,27 +71,27 @@ This repository contains the **Admin Panel** and **API** for managing food order
 | `/order-history`             | GET        | Fetches the history of all orders made by the user.                                             | `auth:sanctum`       |
 
 <!-- Images start here -->
-![Screenshot 2024-11-28 084600.png](public/assets/screenshoot/Screenshot 2024-11-28 084600.png)
+![file1.png](public/assets/screenshoot/file1.png)
 
-![Screenshot 2024-11-28 084643.png](public/assets/screenshoot/Screenshot 2024-11-28 084643.png)
+![file10.png](public/assets/screenshoot/file10.png)
 
-![Screenshot 2024-11-28 084819.png](public/assets/screenshoot/Screenshot 2024-11-28 084819.png)
+![file11.jpeg](public/assets/screenshoot/file11.jpeg)
 
-![Screenshot 2024-11-28 084855.png](public/assets/screenshoot/Screenshot 2024-11-28 084855.png)
+![file2.png](public/assets/screenshoot/file2.png)
 
-![Screenshot 2024-11-28 084908.png](public/assets/screenshoot/Screenshot 2024-11-28 084908.png)
+![file3.png](public/assets/screenshoot/file3.png)
 
-![Screenshot 2024-11-28 084947.png](public/assets/screenshoot/Screenshot 2024-11-28 084947.png)
+![file4.png](public/assets/screenshoot/file4.png)
 
-![Screenshot 2024-11-28 085008.png](public/assets/screenshoot/Screenshot 2024-11-28 085008.png)
+![file5.png](public/assets/screenshoot/file5.png)
 
-![Screenshot 2024-11-28 085020.png](public/assets/screenshoot/Screenshot 2024-11-28 085020.png)
+![file6.png](public/assets/screenshoot/file6.png)
 
-![Screenshot 2024-11-28 085032.png](public/assets/screenshoot/Screenshot 2024-11-28 085032.png)
+![file7.png](public/assets/screenshoot/file7.png)
 
-![Screenshot 2024-11-28 085042.png](public/assets/screenshoot/Screenshot 2024-11-28 085042.png)
+![file8.png](public/assets/screenshoot/file8.png)
 
-![Screenshot_28-11-2024_84728_127.0.0.1.jpeg](public/assets/screenshoot/Screenshot_28-11-2024_84728_127.0.0.1.jpeg)
+![file9.png](public/assets/screenshoot/file9.png)
 
 <!-- Sample output -->
 # Food Order Appointment System
