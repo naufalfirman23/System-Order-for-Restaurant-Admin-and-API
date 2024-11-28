@@ -41,9 +41,7 @@ This repository contains the **Admin Panel** and **API** for managing food order
     npm install
     npm run dev
 5. Configure the .env file with your database and environment details.
-6. download sql file on :
-   ```bash
-   https://api.whatsapp.com/send/?phone=6282265057386&text&type=phone_number&app_absent=0
+6. download sql file on : [Text yang Taut]([URL](https://api.whatsapp.com/send/?phone=6282265057386&text&type=phone_number&app_absent=0))   
 8. Start the server:
    ```bash
    php artisan serve
